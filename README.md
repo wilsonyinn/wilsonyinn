@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wilson
 - :school: I'm a CS student at SFSU
 - :house: I'm located in the Bay Area
-- 📫 Contact Me: www.linkedin.com/in/wilson-yin || wyin5510@gmail.com
+- 📫 Contact Me: www.linkedin.com/in/wilson-yin || wyin6610@gmail.com
     
 
 <!---
