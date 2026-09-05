@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Wilson
 - :school: I'm a software engineer with ~2 years of experience
-- :house: I'm located in the Bay Area
-- 📫 Contact Me: www.linkedin.com/in/wilson-yin || wyin7710@gmail.com
+- 📫 Contact Me: www.linkedin.com/in/wilson-yin || wyin16@gmail.com
     
 
 <!---
